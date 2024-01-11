@@ -1,6 +1,6 @@
 {
-  "homepage": "https://danilovnikolai.github.io/react_user-invitation",
-  "name": "counter",
+  "homepage": "https://danilovnikolai.github.io/react_users-invitation",
+  "name": "react_users-invitation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
