@@ -1,4 +1,8 @@
-# **User's Invitation App**
+<<<<<<< HEAD
+# **User's Invitation Application**
+=======
+# **User's Invitation app**
+>>>>>>> 4a48aa745bc15784f8eec2f45eb0b60a9df07e8e
 
 This is a small web application where there is a list of users who can be selected to send an invitation.
 
