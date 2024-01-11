@@ -1,4 +1,4 @@
-# **User's Invitation app**
+# **User's Invitation App**
 
 This is a small web application where there is a list of users who can be selected to send an invitation.
 
