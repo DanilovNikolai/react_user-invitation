@@ -1,4 +1,4 @@
-# **Web Application with imitation of sending invitations to users**
+# **User's Invitation App**
 
 This is a small web application where there is a list of users who can be selected to send an invitation.
 
