@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_user-invitation/static/css/main.9360ae2f.css",
+    "main.js": "/react_user-invitation/static/js/main.19953cac.js",
+    "index.html": "/react_user-invitation/index.html",
+    "main.9360ae2f.css.map": "/react_user-invitation/static/css/main.9360ae2f.css.map",
+    "main.19953cac.js.map": "/react_user-invitation/static/js/main.19953cac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9360ae2f.css",
+    "static/js/main.19953cac.js"
+  ]
+}
